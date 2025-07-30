@@ -44,9 +44,6 @@ Configures multiple frames in a single pass using variadic arguments.
 ### `SpriteCelSetFrame()`
 Visually applies a frame to the active CCB by copying its preambles and source pointer.
 
-### `AnimSpriteCelNextStep()`
-Moves to next animation step. Called by `AnimateSpriteCelRun()` or a trigger.
-
 ### `SpriteCelNextFrame()` / `SpriteCelPreviousFrame()`
  Display the next or previous frame based on the current index.
 
