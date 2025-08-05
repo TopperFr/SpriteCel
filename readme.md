@@ -1,4 +1,4 @@
-# SpriteCel – Sprite Management for 3DO Cel Engine
+# SpriteCel – Sprite Management (3DO Cel Engine)
 
 **Author**: Christophe Geoffroy (Topper)  
 **License**: MIT  
